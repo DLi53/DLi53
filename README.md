@@ -41,7 +41,7 @@ Technologies Used:
 
 ### :gear: GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLi53&theme=blue-green" />
-<img src="https://github-readme-stats.vercel.app/api?username=DLi5383&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api?username=DLi53&theme=blue-green" />
 
 ### :e-mail: Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DLi53@outlook.com)
