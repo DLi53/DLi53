@@ -4,7 +4,7 @@
 <div align="center" > <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&background=51FFB700&center=true&vCenter=true&lines=Hello%2C+I+am+Daniel+Li;Full+Stack+Web+Developer" /> </div>
 
 <div align="center"> 
- <h3>A little about me :innocent: : </h3>
+ <h2>A little about me :innocent: : </h2>
 <li> 🎓 I am a Full Stack Software Engineer </li>
 <li> 💻 I'm currently open for work</li>
 <li> 🔭 I’m currently working on website clones</li>
@@ -16,9 +16,8 @@
 <br>
 <h2 align="center">
 :cd: Technologies Used:
- </div>
+ </h2>
 
-<br/>
 <br/>
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
