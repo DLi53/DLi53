@@ -1,7 +1,7 @@
 <!-- 
 ### [![Typing SVG] -->
 
-<div align="center" > <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Daniel+Li;Full+Stack+Web+Developer" /> </div>
+<div align="center" > <img src="[https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Daniel+Li;Full+Stack+Web+Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&background=51FFB700&center=true&vCenter=true&lines=Hello%2C+I+am+Daniel+Li;Full+Stack+Web+Developer)" /> </div>
 
 <div align="center"> 
  <h3>A little about me :innocent: : </h3>
