@@ -15,7 +15,7 @@
 
 <br>
 <h2 align="center">
-Technologies Used:
+:cd: Technologies Used:
  </div>
 
 <br/>
