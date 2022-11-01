@@ -40,7 +40,7 @@ Technologies Used:
 <!-- ![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white) -->
 
 ### :gear: GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLi53&theme=blue-green" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLi53&theme=blue-green" /> -->
 <img src="https://github-readme-stats.vercel.app/api?username=DLi53&theme=blue-green" />
 
 ### :e-mail: Contact Me
