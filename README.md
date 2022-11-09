@@ -44,6 +44,7 @@
 <!-- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) -->
 <!-- ![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white) -->
 
+ 
 <h2 align="center"> :gear: GitHub Stats </h2>
 <p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=DLi53&theme=cobalt" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DLi53&theme=default"/>
@@ -53,10 +54,10 @@
 
 <h2 align="center"> :e-mail: Contact Me <h2>
 <div align="center">
+   <a href = "https://danielli.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   <a href = "https://www.linkedin.com/in/DanielLi52/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href = "https://www.angel.co/u/daniel-li-66"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/></a>
  <a href = "mailto: DLi53@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
-  <a href = "https://danielli.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/> </a>
 </div>
 <!-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DLi53@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DanielLi52/) -->
