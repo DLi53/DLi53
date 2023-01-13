@@ -47,9 +47,9 @@
  
 <h2 align="center"> :gear: GitHub Stats </h2>
 <p align="center"><img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=DLi53&theme=cobalt" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DLi53&theme=default"/>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DLi53&theme=default"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLi53&layout=compact" />
-</p>
+</p> -->
 
 
 <h2 align="center"> :e-mail: Contact Me <h2>
